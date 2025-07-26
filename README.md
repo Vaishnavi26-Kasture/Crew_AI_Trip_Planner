@@ -8,12 +8,16 @@ This is a Streamlit-based travel planner that uses CrewAI, Gemini, and Serper fo
 - Real-time weather and search using Serper
 - Saves markdown itinerary
 
+## Output Screenshot
+
+![trip1](https://github.com/Vaishnavi26-Kasture/Crew_AI_Trip_Planner/blob/main/NEW_Crew/trip1.png?raw=true)
+
 ## How to Run
 
 ```bash
-streamlit run app1.py
+pip install -r requirements.txt
+streamlit run app.py
 
+##
 
-## Screenshot
-
-![trip1](https://github.com/Vaishnavi26-Kasture/Crew_AI_Trip_Planner/blob/main/NEW_Crew/trip1.png?raw=true)
+![trip1](https:)
