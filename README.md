@@ -11,13 +11,9 @@ This is a Streamlit-based travel planner that uses CrewAI, Gemini, and Serper fo
 ## How to Run
 
 ```bash
-streamlit run app.py
+streamlit run app1.py
+
 
 ## Screenshot
 
-![trip1](NEW_Crew/trip1.png)
-
-
-![Itinerary Screenshot](trip2.png)
-
-![Itinerary Screenshot](trip3.png)
+![trip1](https://github.com/Vaishnavi26-Kasture/Crew_AI_Trip_Planner/blob/main/NEW_Crew/trip1.png?raw=true)
