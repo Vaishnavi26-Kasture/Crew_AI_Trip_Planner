@@ -15,7 +15,7 @@ streamlit run app.py
 
 ## Screenshot
 
-![Itinerary Screenshot](trip1.png)
+![trip1](NEW_Crew/trip1.png)
 
 
 ![Itinerary Screenshot](trip2.png)
