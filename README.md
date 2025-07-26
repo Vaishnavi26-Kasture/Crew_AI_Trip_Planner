@@ -12,3 +12,12 @@ This is a Streamlit-based travel planner that uses CrewAI, Gemini, and Serper fo
 
 ```bash
 streamlit run app.py
+
+## Screenshot
+
+![Itinerary Screenshot](trip1.png)
+
+
+![Itinerary Screenshot](trip2.png)
+
+![Itinerary Screenshot](trip3.png)
